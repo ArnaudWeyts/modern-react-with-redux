@@ -1,2 +1,2 @@
-# Modern React with Redux
-Personal solutions for [https://udemy.com/react-redux](https://udemy.com/react-redux).
+# React video player
+This is my solution for the first project of [this course](https://udemy.com/react-redux).
