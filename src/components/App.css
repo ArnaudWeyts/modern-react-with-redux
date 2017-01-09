@@ -10,7 +10,7 @@
 
 .video-content {
   margin: 0 auto;
-  max-width: 980px;
+  max-width: 1000px;
 }
 
 .video-item img {
@@ -22,6 +22,16 @@
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
+}
+
+.details {
+  margin-bottom: 10px;
+}
+
+.list-group {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
 
 .list-group-item {
